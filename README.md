@@ -27,7 +27,7 @@ The Google Project Management Certificate is a six-course program designed to de
 - [Project Charter](./Course2/2.4-Project%20charter.pdf)  
 
 ### 📌 Course 3 - Project Planning  
-- [Work Breakdown Structure (WBS)](./Course3/A3.1-WBS%20to%20create%20project%20tasks%20and%20milestones.pdf)  
+- [Work Breakdown Structure (WBS)](./Course3/3.1-WBS%20to%20create%20project%20tasks%20and%20milestones.pdf)  
 - [Gantt Chart](./Course3/3.2-Gantt%20Chart.pdf)  
 - [Project Budget](./Course3/3.3-Project%20Budget.pdf)  
 - [Statement of Work (SoW)](./Course3/3.3-Statement%20of%20Work%20(SoW).pdf)  
